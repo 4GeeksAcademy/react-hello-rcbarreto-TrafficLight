@@ -20,3 +20,12 @@
     box-shadow: 0px 0px 80px 20px rgba(212,40,63,1);
 
 }
+
+.purpleLight{
+
+    -webkit-box-shadow: 0px 0px 80px 20px rgba(163,40,212,1);
+    -moz-box-shadow: 0px 0px 80px 20px rgba(163,40,212,1);
+    box-shadow: 0px 0px 80px 20px rgba(163,40,212,1);
+    background-color:rgba(163,40,212,1);
+
+}
